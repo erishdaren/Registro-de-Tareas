@@ -19,7 +19,7 @@ export default function App() {
       
       <img src={logo} className="App-logo" alt="logo" />
        <TareasForm />
-
+<p> prueba para github</p>
     </div>
  
   );
